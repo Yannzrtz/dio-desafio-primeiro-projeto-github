@@ -10,9 +10,12 @@
 ### Navegação via command line
 
  - Comandos básicos no terminal
+ 
 ![cmd](https://i.ibb.co/HVgGGLd/cmd.png)
 
+
  - instalação
+ 
 [Dowload Git](https://git-scm.com/downloads)
 
 
@@ -26,6 +29,7 @@
 ### Primeiros Comandos
 
  - Iniciando o Git e criando commit
+ 
 ![Git](https://i.ibb.co/0qpShFS/git.png)
 
 ### Ciclo de vida dos arquivos Git
@@ -47,4 +51,5 @@
 ## Recompensa
 
 *Certificado de **Introdução ao Git e ao GitHub***
+
 ![Certificado Git e GitHub](https://i.ibb.co/J3rxY6Y/certificado2.png)

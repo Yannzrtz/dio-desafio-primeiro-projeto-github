@@ -10,6 +10,7 @@
  - Pensamento práticos do uso do pensamento computacional 🧩💡
 
 *Pilares do Pensamento Computacional*
+
 ![Pilares do Pensamento Computacional!](https://i.ibb.co/xgV8dBd/pensamentoc.png)
 
 
@@ -22,6 +23,7 @@
  - Breve história da computação 🦖💻
 
 *Representação de lógica*
+
 ![Representação de lógica!](https://i.ibb.co/LpL4zm6/logica.png)
 
 
@@ -39,6 +41,7 @@
 - Funções 📈📊
 
 *Representação de uma sequência de ação*
+
 ![Representação de uma sequência de ação!](https://i.ibb.co/S3sxg0X/Algoritmo.png)
 
 
@@ -51,11 +54,13 @@
  - Analises de código 🔎❔
 
 *15 principais tipos de linguagem de programção*
+
 ![15 principais tipos de linguagem de programção!](https://i.ibb.co/94Srq3z/linguagem.png)
 
 ## Recompensa
 
 *Conclusão de **Introdução à Programação e Pensamento Computacional***
+
 ![Conclusão de Introdução à Programação e Pensamento Computacional](https://i.ibb.co/tqpqqW8/certificado1.png)
 
 
