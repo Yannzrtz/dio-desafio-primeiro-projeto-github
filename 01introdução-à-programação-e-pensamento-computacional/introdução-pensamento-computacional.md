@@ -24,7 +24,7 @@
 
 *Representação de lógica*
 
-![Representação de lógica!](https://i.ibb.co/LpL4zm6/logica.png)
+![Representação de lógicaa!](https://i.ibb.co/LpL4zm6/logica.png)
 
 
 ## Fundamentos de algoritmos

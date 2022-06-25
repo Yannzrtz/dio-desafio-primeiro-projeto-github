@@ -45,7 +45,7 @@
 
 ### Resolvendo Conflitos
 
-![erro](https://i.ibb.co/zF1RHQj/erro.png)
+![erroo](https://i.ibb.co/zF1RHQj/erro.png)
 
 
 ## Recompensa
